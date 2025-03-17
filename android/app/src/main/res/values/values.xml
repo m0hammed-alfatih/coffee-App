@@ -1,0 +1,5 @@
+<resources>
+   <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string>
+    <string name="default_app_id">"1:1096291702596:android:f975acbf156bb789986911"</string>
+    
+</resources>
